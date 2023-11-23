@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with **NodeJS, THREE.js, Vite, HTML5 and CSS3!**
+- 🔭 I’m currently working with **NodeJS, THREE.js, Cannon-ES, Vite, HTML5 and CSS3!**
 
 - 🌱 I’m currently learning **VueJS, Tailwind, PostCSS**
 
