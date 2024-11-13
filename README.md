@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with **NodeJS, THREE.js, Cannon-ES, Vite, HTML5 and CSS3!**
+- 🔭 I’m currently working with **NodeJS, THREE.js, RapierJS, Vite, HTML5 and CSS3!**
 
-- 🌱 I’m currently learning **GLSL, WebGPU and Blender!**
+- 🌱 I’m currently learning **WGSL and Golang!**
 
 - 📫 Feel free to reach me out **iona.sm@protonmail.com**
 <!--Intro end-->
@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,express,md,py,git,github,discord,linux,vscode,cloudflare,codepen,discord,electron,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,electron,go,vite&perline=14" />
   </a>
 </p>
 
