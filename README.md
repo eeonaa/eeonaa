@@ -26,27 +26,6 @@
 - 📫 Feel free to reach me out **iona.sm@protonmail.com**
 <!--Intro end-->
 
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="90%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eeonaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -58,6 +37,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,electron,go,vite&perline=14" />
   </a>
+</p>
+
+<p align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eeonaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
 <!--profile visit count-->
