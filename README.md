@@ -14,7 +14,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">I'm a Frontend Developer from the UK!</h2>
+      <h2 style="display: inline-block">I'm a Frontend Developer from the UK!</h2><br>
       <h3 style="display: inline-block">I currently specialise in Graphics and Physics programming!</h3>
     </summary>
   </ul>
