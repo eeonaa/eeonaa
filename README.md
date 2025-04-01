@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **WGSL and WASM!**
 
-- 📫 Feel free to reach me out **iona.sm@protonmail.com**
+- 📫 Feel free to reach out to me at **iona.sm@protonmail.com**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
