@@ -35,7 +35,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,electron,go,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,css,html,nodejs,threejs,pnpm,vite,vscode,go,docker&perline=12" />
   </a>
 </p>
 <!--horizontal divider(gradiant)-->
