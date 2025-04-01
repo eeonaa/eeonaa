@@ -23,9 +23,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with **NodeJS, THREE.js, RapierJS, Vite, HTML5 and CSS3!**
+- 🔭 I’m currently working with **NodeJS, THREE.js, RapierJS, GLSL and Vite!**
 
-- 🌱 I’m currently learning **WGSL and Golang!**
+- 🌱 I’m currently learning **WGSL and WASM!**
 
 - 📫 Feel free to reach me out **iona.sm@protonmail.com**
 <!--Intro end-->
