@@ -23,9 +23,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with **NodeJS, THREE.js, RapierJS, GLSL and Vite!**
+- 🔭 I’m currently working with **Typecript, Three.js, TSL and Vite!**
 
-- 🌱 I’m currently learning **WGSL and WASM!**
+- 🌱 I’m currently learning **Real Time VFX and WASM!**
 
 - 📫 Feel free to reach out to me at **iona.sm@protonmail.com**
 <!--Intro end-->
