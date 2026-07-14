@@ -25,7 +25,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working with **Typescript, Three.js, TSL and Vite!**
 
-- 🌱 I’m currently learning **Real Time VFX and WASM!**
+- 🌱 I’m currently learning **Real Time VFX and Networking Code!**
 
 - 📫 Feel free to reach out to me at **iona.sm@protonmail.com**
 <!--Intro end-->
