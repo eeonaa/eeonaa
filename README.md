@@ -23,7 +23,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working with **Typecript, Three.js, TSL and Vite!**
+- 🔭 I’m currently working with **Typescript, Three.js, TSL and Vite!**
 
 - 🌱 I’m currently learning **Real Time VFX and WASM!**
 
